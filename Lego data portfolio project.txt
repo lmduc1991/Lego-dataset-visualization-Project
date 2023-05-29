@@ -1,0 +1,17 @@
+LEGO DATASET VISUALIZATION PROJECT
+
+	Goal of this project: use PowerBI to visualize dataset from LEGO company from beginning to 2019
+
+	Lego dataset: sets.csv and themes.csv. Data were collected to late 2020. In order to have clean full year data, project only focus on data to 2019.
+
+	Skills using in this portfolio project:
+		- Use Power Query in PowerBI to clean data (duplication, empty row and data out of time range, etc)
+		- Use PowerBI for visualization (create relationship between 2 files before visualization)
+
+	Visualization of this dataset is aiming to answer these questions below:
+		- How many sets and themes LEGO have since it started up to 2020
+		- What is the biggest sets with how many parts?
+		- Number of Sets per Themes
+		- Number of Sets per year LEGO produces over time
+		- Number of Themes changed over time
+		- How average number of parts per set changed over time
